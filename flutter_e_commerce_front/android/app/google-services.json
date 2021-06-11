@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487279364466",
+    "project_id": "church-6dd53",
+    "storage_bucket": "church-6dd53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487279364466:android:4b6ff368f27de676d4b5eb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_church"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487279364466-vf01de4viom1o5821ppvkvfbsl5u2djq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_church",
+            "certificate_hash": "ca3c2c27a683d283773f048a1b6263f3b045e1e3"
+          }
+        },
+        {
+          "client_id": "487279364466-7jh8q40j02vg6agmjugovujp800tfehu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkIaS8HPGIi_YGaYa84Vy6ofpeHOWiZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487279364466-7jh8q40j02vg6agmjugovujp800tfehu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
